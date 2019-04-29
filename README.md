@@ -1,2 +1,2 @@
-# W-rfel
+# Würfel
 würfeln
